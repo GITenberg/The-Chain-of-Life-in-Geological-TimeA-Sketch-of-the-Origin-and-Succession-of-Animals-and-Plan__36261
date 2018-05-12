@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40426
     wikipedia: http://en.wikipedia.org/wiki/John_William_Dawson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36261#The-Chain-of-Life-in-Geological-TimeA-Sketch-of-the-Origin-and-Succession-of-Animals-and-Plan_
 gutenberg_issued: '2011-05-30'
 gutenberg_type: Text
 identifiers:
